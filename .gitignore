@@ -1,0 +1,54 @@
+# OS files
+.DS_Store
+Thumbs.db
+.windows-terminal-settings.json
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# Node/npm files
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build files
+dist/
+build/
+*.min.js
+*.min.css
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+node_modules/
+
+# Production
+build/
+dist/
+
+# MacOS
+.AppleDouble
+.LSOverride
+
+# Windows
+desktop.ini
